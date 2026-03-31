@@ -125,7 +125,7 @@ The responses collected through the form are automatically stored in **Google Sh
  Screenshots of the coding challenge and the Google Form are included in the **task-3-platforms** folder and this is the link for the google form
  .
  
-https://docs.google.com/forms/d/e/1FAIpQLSc6mnQV-eSBS2-FbUenoH0jxHenNM3nqPyqhzTsDMLxPAtJtg/viewform?usp=publish-editor
+[https://docs.google.com/forms/d/e/1FAIpQLSc6mnQV-eSBS2-FbUenoH0jxHenNM3nqPyqhzTsDMLxPAtJtg/viewform?usp=publish-editor](https://forms.gle/rSB4A4om7TbkfmKb8)
 ---
 
 #  Task 4 – Professional Email & Online Etiquette
